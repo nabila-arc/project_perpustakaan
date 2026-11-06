@@ -17,7 +17,7 @@ if (isset($_SESSION['username'])) {
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body { 
-            background: linear-gradient(135deg,  #4287ee 0%, #93ecfc 40%, #fcc1db 75%, #a86d39 100%);
+            background: linear-gradient(135deg, #4287ee 0%, #93ecfc 40%, #fcc1db 75%, #a86d39 100%);
             background-attachment: fixed; 
             background-size: cover;
             min-height: 100vh; 

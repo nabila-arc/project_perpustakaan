@@ -7,7 +7,7 @@ if (!isset($_SESSION['username'])) {
     exit(); 
 }
 
-// Cek apakah data dikirim via POST, jika tidak, tendang ke dashboard
+// Mengecek apakah data dikirim 
 if (!isset($_POST['id'])) {
     header("location: dashboard.php");
     exit();
