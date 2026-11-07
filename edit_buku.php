@@ -73,7 +73,7 @@ $row = mysqli_fetch_assoc($data);
                     </div>
                 </div>
                 <div class="mb-4">
-                    <label class="form-label fw-bold">Ganti Sampul (Opsional)</label><br>
+                    <label class="form-label fw-bold">Ganti Sampul</label><br>
                     <?php if(!empty($row['sampul']) && file_exists('uploads/'.$row['sampul'])): ?>
                         <img src="uploads/<?php echo $row['sampul']; ?>" width="80" class="mb-2 rounded shadow-sm">
                     <?php endif; ?>
