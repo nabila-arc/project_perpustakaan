@@ -58,7 +58,7 @@ if (!isset($_SESSION['username'])) {
                     </div>
                 </div>
                 <div class="mb-4">
-                    <label class="form-label fw-bold">Sampul Buku (JPG/PNG max 2MB)</label>
+                    <label class="form-label fw-bold">Sampul Buku (max 2MB)</label>
                     <input type="file" name="sampul" class="form-control" accept=".jpg,.png,.jpeg" required>
                 </div>
                 <div class="d-grid gap-2 d-md-flex justify-content-md-end">
