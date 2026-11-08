@@ -149,8 +149,8 @@ Antarmuka pembaruan informasi dengan kemampuan mengisi ulang data lama (pramusi/
 
 ---
 
-## 🎥 VIDEO DEMO APLIKASI
+## 🎥 VIDEO APLIKASI
 
 Untuk melihat demonstrasi aplikasi secara utuh saat dijalankan (simulasi fungsi Login, Tambah, Edit, Hapus, dan Logout), silakan klik tautan video YouTube di bawah ini:
 
-👉 **[KLIK DI SINI UNTUK MENONTON VIDEO DEMO YOUTUBE]**
+👉 **[(https://youtu.be/NjmWn00S3Mc)]**
